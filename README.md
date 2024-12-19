@@ -40,7 +40,7 @@ To use this script, ensure the following:
      size_x = 30
      size_y = 30
      size_z = 30
-     exhaustiveness = 8
+     exhaustiveness = 12
      ```
    - Note: The search box size should not exceed 30 units for `size_x`, `size_y`, and `size_z`.
 
