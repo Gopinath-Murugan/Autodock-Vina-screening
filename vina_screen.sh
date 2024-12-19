@@ -1,12 +1,15 @@
+#!/bin/bash
+
+# Display a header message about the script
 cat << "EOF"
             ########################################################################## 
             ##                                                                      ##
-            ##          Virtual Screening Script using AutoDock Vina                ##
+            ##          Virtual Screening Sort Script for Autodock Vina             ##
             ##                   Written by Gopinath Murugan                        ##
             ##       CAS in Crystallography and Biophysics, University of Madras    ##
             ##                   Email: murugangopinath12@gmail.com                 ##
-            ##     https://github.com/Gopinath-Murugan/Autodock-Vina-screening      ##
-            ##                                                                      ##
+            ##      https://github.com/Gopinath-Murugan/Autodock-Vina-screening     ##
+	    ##                                                                      ##  
             ########################################################################## 
 EOF
 
