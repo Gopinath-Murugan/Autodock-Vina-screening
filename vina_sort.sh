@@ -8,7 +8,7 @@ cat << "EOF"
             ##                   Written by Gopinath Murugan                        ##
             ##       CAS in Crystallography and Biophysics, University of Madras    ##
             ##                   Email: murugangopinath12@gmail.com                 ##
-            ##                                                                      ##
+            ##      https://github.com/Gopinath-Murugan/Autodock-Vina-screening     ##
 	    ##                                                                      ##  
             ########################################################################## 
 EOF
