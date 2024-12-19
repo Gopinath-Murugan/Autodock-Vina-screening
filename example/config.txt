@@ -1,0 +1,13 @@
+# AutoDock Vina configuration file
+
+# Search space (center and size of the search box)
+center_x = -24.247 
+center_y = 11.918 
+center_z = 11.502
+
+size_x = 30
+size_y = 30
+size_z = 30
+
+exhaustiveness = 12
+
